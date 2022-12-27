@@ -4,7 +4,7 @@ define("TAX",1.1);
 
 foreach($products as $key=>$value){
     $price = $value * TAX;
-    echo "$key.の税込み価格は.$price.です";
+    echo "{$key}の税込み価格は{$price}です";
     echo "<br>";
 }
 

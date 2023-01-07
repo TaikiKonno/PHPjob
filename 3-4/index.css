@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+    background-color: #808080;
+    margin-top:150px;
+}
+
+h1{
+    font-size: 30px;
+    color:#fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    margin-bottom: 60px;
+    border-bottom:solid 5px #fff;
+}
+form{
+    text-align: center;
+}
